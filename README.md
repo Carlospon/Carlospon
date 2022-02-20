@@ -58,3 +58,6 @@ Donar en banco de barrio de guayaquil
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTE", ESPN
 https://edge2.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="http:// x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/1.m3u8
